@@ -42,6 +42,7 @@ extension GameScene{
         self.addChild(restartBtn)
         restartBtn.run(SKAction.scale(to: 1.0, duration: 0.3))
         //test
+        //test2
     }
     
     func createPauseBtn() {
